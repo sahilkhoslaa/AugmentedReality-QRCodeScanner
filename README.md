@@ -2,7 +2,7 @@
 A project based on Python and OpenCV which detects and recognizes a single/multiple QR codes and creates virtual pyramid after scanning the code.
 
 <p>
-  <img src = "www.sahilkhosla.co.in/augmentedrealitysimple/result.jpg" align="center">
+  <img src = "http://www.sahilkhosla.co.in/augmentedrealitysimple/result.jpg" align="center">
   </p>
 <h3>Installation Linux users</h3>
 <p> Install <b>openCV</b></p>
